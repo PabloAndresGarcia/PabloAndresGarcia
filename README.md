@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PabloAndresGarcia
-- 👀 I’m interested in ... Learn
-- 🌱 I’m currently learning ... HTML, CSS, Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in work like FrontEnd Developer
+- ✅ i´m finished a course of HTML, CSS, Javascript
+- 🌱 I’m currently learning React
 - 📫 How to reach me ... garciasjs@gmail.com
 
 <!---
