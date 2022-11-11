@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @PabloAndresGarcia
-- 👀 I’m interested in work like FrontEnd Developer
-- ✅ i´m finished a course of HTML, CSS, Javascript
-- 🌱 I’m currently learning React
-- 📫 How to reach me ... garciasjs@gmail.com
+Acerca de mi
 
-<!---
-PabloAndresGarcia/PabloAndresGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ Soy Pablo, un desarrollador Web FrontEnd con capacidad de realizar proyectos escalables y aptos para el trabajo en equipo.
+ Me considero una persona con la capacidad de adaptarse rápidamente a nuevos escenarios, proponiendo ideas y siendo receptivo a los puntos de vista ajenos.
+
+ ¿Por qué contactarme?
+
+Programar es algo que me apasiona, por lo que siempre estaré dispuesto a aprender cosas nuevas, trabajar en equipo y dar mi máximo esfuerzo para resolver las problemáticas que surjan.
+
+ ¿En qué me destaco?
+
+HTML.
+CSS.
+Full JavaScript.
+WordPress.
+
+ Para contactarte conmigo:
+Mail: garciasjs@gmail.com
+WhatsApp: https://walink.co/f5da3f
