@@ -13,6 +13,8 @@ HTML.
 CSS.
 Full JavaScript.
 WordPress.
+React
+React Native
 
  Para contactarte conmigo:
 Mail: garciasjs@gmail.com
