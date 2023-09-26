@@ -13,9 +13,9 @@ HTML.
 CSS.
 Full JavaScript.
 WordPress.
-React
-React Native
+React.
+React Native.
 
- Para contactarte conmigo:
+# Contacto:
 Mail: garciasjs@gmail.com
 WhatsApp: https://walink.co/f5da3f
