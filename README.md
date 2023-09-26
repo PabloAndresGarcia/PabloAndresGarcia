@@ -1,4 +1,4 @@
-#Acerca de mi
+# Acerca de mi
 
  Soy Pablo, un desarrollador Web FrontEnd con capacidad de realizar proyectos escalables y aptos para el trabajo en equipo.
  Me considero una persona con la capacidad de adaptarse rápidamente a nuevos escenarios, proponiendo ideas y siendo receptivo a los puntos de vista ajenos.
